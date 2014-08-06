@@ -1,0 +1,4 @@
+[Doctor] You have found the SSD or Solid State Drive!
+[Doctor] The SSD is like the Hard Drive but only much faster!
+[Doctor] We are going to need a PSU.
+[Doctor] It is located in an outdoor testing facility.

@@ -1,0 +1,5 @@
+[Doctor] Congrats Norton!
+[Doctor] You retrieved the Central Processing Unit or CPU.
+[Doctor] The CPU carries out the instructions of a computer.
+[Doctor] For your next mission you will need to retrieve the RAM.
+[Doctor] The RAM is stored in a high-security facility, so you will need to be very careful.

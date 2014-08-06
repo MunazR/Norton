@@ -1,0 +1,5 @@
+E:\Computer Science\FINAL PROJECT\Norton\Norton\NortonContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Computer Science\FINAL PROJECT\RahmanM_ShenH_Final Project\Norton\Norton\NortonContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Computer Science\FINAL PROJECT\RahmanM_ShenH_Final ProjectV2\Norton\Norton\NortonContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\homemade\Dropbox\XNA Game\USB Copy\Norton\Norton\NortonContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Munaz\Desktop\XNA Game\USB Copy\Norton\Norton\NortonContent\obj\x86\Debug\NortonContent.contentprojResolveAssemblyReference.cache
