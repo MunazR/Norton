@@ -1,0 +1,12 @@
+[Assistant] Sir, I think he is online.
+[Doctor] Are you sure?
+[Assistant] Positive. Systems are online.
+[Doctor] Norton, can you hear me?
+[Norton] Systems are operational.
+[Doctor] We do not have much time.
+[Doctor] We need your help Norton.
+[Doctor] A virus has infected Skynet.
+[Doctor] We no longer have control of our systems.
+[Doctor] We need you to retrieve the Golden Computer Parts.
+[Doctor] So we can build the Super Computer and put an end to this.
+[Doctor] Your first mission is to infiltrate the lab and retrieve the CPU.

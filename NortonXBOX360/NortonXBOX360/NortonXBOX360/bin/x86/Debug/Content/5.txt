@@ -1,0 +1,4 @@
+[Doctor] The data stored in that HDD will be very useful!
+[Doctor] The HDD or Hard Disk Drive is a non-volatile form of computer memory.
+[Doctor] However we will a device faster than this.
+[Doctor] You'll need to retrieve an SSD.

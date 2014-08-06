@@ -1,0 +1,5 @@
+[Doctor] Amazing work!
+[Doctor] You retrieved the Random Access Memory, or RAM.
+[Doctor] RAM is a very fast form of volatile memory.
+[Doctor] In your next mission you are going to infiltrate a lab testing facility.
+[Doctor] You will need to find and retrieve the GPU.

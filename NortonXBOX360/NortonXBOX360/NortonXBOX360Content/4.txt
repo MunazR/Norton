@@ -1,0 +1,5 @@
+[Doctor] Good work Norton!
+[Doctor] You found the Graphics Processing Unit or GPU.
+[Doctor] The GPU handles all video processing in the computer.
+[Doctor] We have got a few pieces left to retrieve.
+[Doctor] The next piece is very valuables, it is the HDD.

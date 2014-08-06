@@ -1,0 +1,4 @@
+[Doctor] This PSU or Power Supply Unit is perfect!
+[Doctor] It supplies DC current to the computer parts.
+[Doctor] We have one last piece to tie everything together.
+[Doctor] The motherboard!
