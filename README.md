@@ -7,4 +7,5 @@ You can also load it on to your XBox 360 using XNA Game Studio however the game 
 
 The game is a single-player top down shooter with a total of 8 levels. The player must advance through each level by killing their enemy AI and reaching the end of the level.
 
+<h2>Main Menu</h2>
 <img src="http://munaz.me/img/norton/main-menu.png" title="Main Menu"/>
