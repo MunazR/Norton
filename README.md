@@ -6,3 +6,5 @@ The game can be played on PC with a mousea and keyboard or you can plug in your 
 You can also load it on to your XBox 360 using XNA Game Studio however the game is kinda slow, we are still working on making it more efficient.
 
 The game is a single-player top down shooter with a total of 8 levels. The player must advance through each level by killing their enemy AI and reaching the end of the level.
+
+<img src="http://munaz.me/img/norton/main-menu.png" title="Main Menu"/>
